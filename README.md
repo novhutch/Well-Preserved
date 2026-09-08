@@ -1,31 +1,24 @@
-Well-Preserved is a 
+# Well-Preserved
+
 Graduate archival portfolio mapped to the nine SAA-aligned competency components. Each folder pairs a specific artifact with the competency it demonstrates — some produced with course guidance, some hands-on.
 
-Access: This portfolio is current as of September 2026 and reflects coursework and hands-on archival work completed through my MAIS program at Clayton State University, expected to conclude December 2026. It's maintained for hiring committees and reviewers evaluating my candidacy for archival positions and will be kept current through my job search; after that, entries may not reflect my most recent work.
+**Access:** This portfolio is current as of September 2026 and reflects coursework and hands-on archival work completed through my MAIS program at Clayton State University, expected to conclude December 2026. It's maintained for hiring committees and reviewers evaluating my candidacy for archival positions and will be kept current through my job search; after that, entries may not reflect my most recent work.
 
-Reproduction: Materials in this portfolio are shared for the purpose of evaluating my qualifications and are not to be reproduced, redistributed, or cited without my written permission. Contact me at arhutch03@yaho.com to request use. The finding aids included here (Mike Williams Art Collection, Rev. Southall Brown Collection) carry their own copyright and reproduction notices governing the archival collections they describe, separate from and in addition to this portfolio-level statement.
+**Reproduction:** Materials in this portfolio are shared for the purpose of evaluating my qualifications and are not to be reproduced, redistributed, or cited without my written permission. Contact me at arhutch03@yahoo.com to request use. The finding aids included here (Mike Williams Art Collection, Rev. Southall Brown Collection) carry their own copyright and reproduction notices governing the archival collections they describe, separate from and in addition to this portfolio-level statement.
 
-With guidance (coursework)
+## With guidance (coursework)
 
-1. Nature of Records and Archives — Accession Record
+1. [Nature of Records and Archives](with-guidance/01-nature-of-records/) — Accession Record
+2. [Appraisal and Acquisition](with-guidance/02-appraisal-acquisition/) — Deed of Gift
+3. [Reference and Access](with-guidance/04-reference-access/)
+4. [Records Information Management](with-guidance/07-records-info-management/) — Records Management Policy
+5. [Management and Administration](with-guidance/08-management-administration/)
 
-2. Appraisal and Acquisition — Deed of Gift
+## Independent (hands-on)
 
-3. Reference and Access
+1. [Arrangement and Description](independent/03-arrangement-description/) — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
+2. [Preservation](independent/05-preservation/)
+3. [Digital Records and Access Systems](independent/06-digital-records-access-systems/)
+4. [Outreach and Advocacy](independent/09-outreach-advocacy/)
 
-4. Records Information Management — Records Management Policy
-
-5. Management and Administration
-
-Independent (hands-on)
-
-6. Arrangement and Description — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
-
-7. Preservation
-
-8. Digital Records and Access Systems
-
-9. Outreach and Advocacy
-
-See 00-finding-aid for the full repository map.
-
+See [00-finding-aid](00-finding-aid/) for the full repository map.
