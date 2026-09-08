@@ -1,6 +1,4 @@
-# Finding Aid — Repo Map
 # Finding Aid — Repository Map
-
 A guide to how this portfolio is organized, for anyone who wants the full picture rather than following a single competency link from the root README.
 
 ## With guidance (coursework)
