@@ -7,25 +7,25 @@ Reproduction: Materials in this portfolio are shared for the purpose of evaluati
 
 With guidance (coursework)
 
-Nature of Records and Archives — Accession Record
+1. Nature of Records and Archives — Accession Record
 
-Appraisal and Acquisition — Deed of Gift
+2. Appraisal and Acquisition — Deed of Gift
 
-Reference and Access
+3. Reference and Access
 
-Records Information Management — Records Management Policy
+4. Records Information Management — Records Management Policy
 
-Management and Administration
+5. Management and Administration
 
 Independent (hands-on)
 
-Arrangement and Description — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
+6. Arrangement and Description — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
 
-Preservation
+7. Preservation
 
-Digital Records and Access Systems
+8. Digital Records and Access Systems
 
-Outreach and Advocacy
+9. Outreach and Advocacy
 
 See 00-finding-aid for the full repository map.
 
