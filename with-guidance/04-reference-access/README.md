@@ -3,4 +3,4 @@
 
 Coursework artifact for the Reference and Access competency: a Patron Relations presentation.
 
-**Artifact:** *pending upload* 
+**Artifact:** Presentation 
