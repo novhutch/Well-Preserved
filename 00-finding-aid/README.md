@@ -1,23 +1,33 @@
-# Finding Aid — Repository Map
-A guide to how this portfolio is organized, for anyone who wants the full picture rather than following a single competency link from the root README.
+# Finding Aid — Repo Map
 
-## With guidance (coursework)
+**Provenance:** This portfolio was created by Amanda Hutchinson, graduate
+student in Archival and Information Studies at Clayton State University,
+to document coursework and hands-on experience toward degree completion
+(expected December 2026).
 
-| Folder | Competency | Artifact |
-|---|---|---|
-| [01-nature-of-records](../with-guidance/01-nature-of-records/) | Nature of Records and Archives | Accession Record |
-| [02-appraisal-acquisition](../with-guidance/02-appraisal-acquisition/) | Appraisal and Acquisition | Deed of Gift |
-| [04-reference-access](../with-guidance/04-reference-access/) | Reference and Access | Patron Relations presentation *(pending upload)* |
-| [07-records-info-management](../with-guidance/07-records-info-management/) | Records Information Management | Records Management Policy |
-| [08-management-administration](../with-guidance/08-management-administration/) | Management and Administration | Museum outreach presentation *(pending upload)* |
+**Arrangement:**
 
-## Independent (hands-on)
+- [`with-guidance/`](../with-guidance) — coursework assignments, arranged
+  into the nine SAA competency areas
+- [`independent/`](../independent) — self-directed, hands-on work,
+  arranged the same way
+- [`certificates/`](../certificates) — certifications and professional
+  development completed alongside coursework
 
-| Folder | Competency | Artifact |
-|---|---|---|
-| [03-arrangement-description](../independent/03-arrangement-description/) | Arrangement and Description | Mike Williams Art Collection finding aid; Rev. Southall Brown Collection finding aid |
-| [05-preservation](../independent/05-preservation/) | Preservation | Audiocassette digitization write-up *(pending upload)* |
-| [06-digital-records-access-systems](../independent/06-digital-records-access-systems/) | Digital Records and Access Systems | PastPerfect and Omeka work *(pending upload)* |
-| [09-outreach-advocacy](../independent/09-outreach-advocacy/) | Outreach and Advocacy | Curated display photographs; StoryRoots project *(pending upload)* |
+Each of the two competency series is numbered 01–09 consistently across
+both `with-guidance/` and `independent/`.
 
-Folders marked *pending upload* have a competency assigned but no artifact file yet.
+**Subject tags (controlled vocabulary):**
+`DACS` · `arrangement` · `digitization` · `community archives` ·
+`civil rights` · `oral history` · `outreach` · `ArchivesSpace` ·
+`Omeka` · `PastPerfect` · `records management`
+
+| Tag | Appears in |
+|---|---|
+| civil rights | `independent/03-arrangement-description/` (Southall Brown) |
+| community archives | `independent/03-.../` (both finding aids), `independent/09-.../` |
+| DACS | `with-guidance/01-.../`, `with-guidance/02-.../`, `independent/03-.../` |
+| digitization | `independent/05-.../`, `independent/06-.../` |
+| records management | `with-guidance/07-.../` |
+| outreach | `with-guidance/04-.../`, `with-guidance/08-.../`, `independent/09-.../` |
+| Omeka / PastPerfect | `independent/06-.../` |
