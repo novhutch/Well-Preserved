@@ -2,5 +2,8 @@
 
 Certifications and professional development completed alongside coursework.
 
-[List each certificate here as you add it, e.g.:]
-- **[Certificate name]** — [issuing body], [date]
+
+- **[Certificate Preservica Fundamentals]** — [Preservica Academy], [08-25-2025]
+
+- **[Certificate DACS]** — [Society of American Archivists], [01-12-2026]
+ 
