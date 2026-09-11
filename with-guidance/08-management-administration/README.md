@@ -3,5 +3,5 @@
 
 Coursework artifact for the Management and Administration competency: a museum outreach presentation.
 
-**Artifact:** *pending upload*
+**Artifact:** *In progress*
 
