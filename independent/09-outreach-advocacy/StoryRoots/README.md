@@ -1,3 +1,3 @@
 StoryRoots Project
 
-**Artifcat:** _pending upload_
+**Artifact:** _pending upload_
