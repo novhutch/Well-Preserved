@@ -20,4 +20,4 @@ A guide to how this portfolio is organized, for anyone who wants the full pictur
 | [06-digital-records-access-systems](../independent/06-digital-records-access-systems/) | Digital Records and Access Systems | PastPerfect and Omeka work *(pending upload)* |
 | [09-outreach-advocacy](../independent/09-outreach-advocacy/) | Outreach and Advocacy | Curated display photographs; StoryRoots project *(pending upload)* |
 
-Folders marked *pending upload* have a competency assigned and a README in place, but no artifact file yet.
+Folders marked *pending upload* have a competency assigned but no artifact file yet.
