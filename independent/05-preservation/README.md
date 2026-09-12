@@ -4,6 +4,7 @@
 Hands-on artifact for the Preservation competency: Analog-to-digital reformatting of audiocassette material using Audacity, demonstrating audio preservation workflow rather than physical/environmental preservation technique.
 
 **What this shows I can do:**
+
 Perform analog-to-digital audio reformatting — capturing content off a physical, degrading carrier (cassette tape) before it becomes inaccessible, which is the core preservation task audio archives face.
 
 Make preservation-appropriate format decisions — choosing an uncompressed or lossless master format (e.g. WAV/BWF) for long-term retention, separate from any compressed access copy made for patron use.
