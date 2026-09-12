@@ -15,6 +15,11 @@ Document the transfer process — capturing technical metadata (equipment used, 
 
 Recognize preservation as format-dependent — showing that "preservation" isn't a single technique, but a set of skills that changes depending on whether the material is paper, photographic, or audio.
 
-**Artifact:** Audiocassette Digitization with Audacity
+**Artifact:** 
+
+Audiocassette Tape Digitization Guide
+Audacity screenshot 1
+Audacity screenshot 2
+
 
 
