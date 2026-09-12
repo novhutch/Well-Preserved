@@ -5,7 +5,7 @@ Hands-on artifact for the Digital Records and Access Systems competency: work in
 
 **Artifact:** 
 
-New England Trip — Omeka.net collection 
+[Visit the Omeka site](https://your-actual-omeka-url-here)
 
 PastPerfect: *In process*
 
