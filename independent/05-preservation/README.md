@@ -18,7 +18,9 @@ Recognize preservation as format-dependent — showing that "preservation" isn't
 **Artifact:** 
 
 Audiocassette Tape Digitization Guide
+
 Audacity screenshot 1
+
 Audacity screenshot 2
 
 
