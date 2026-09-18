@@ -17,7 +17,7 @@ Graduate archival portfolio mapped to the nine SAA-aligned competency components
 ## Independent (hands-on)
 
 1. [Arrangement and Description](independent/03-arrangement-description/) — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
-2. [Preservation](independent/05-preservation/)
+2. [Preservation](independent/05-preservation/) - Audiocassette Digitization
 3. [Digital Records and Access Systems](independent/06-digital-records-access-systems/)
 4. [Outreach and Advocacy](independent/09-outreach-advocacy/)
 
