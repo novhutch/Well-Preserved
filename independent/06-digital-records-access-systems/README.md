@@ -5,9 +5,9 @@ Hands-on artifact for the Digital Records and Access Systems competency: work in
 
 **Artifact:** 
 
-Omeka site: https://newengland.omeka.net
+Omeka https://newengland.omeka.net
 
-PastPerfect:
+PastPerfect
 
 Mike Williams Art Collection
 
