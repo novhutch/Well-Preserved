@@ -5,13 +5,13 @@ Hands-on artifact for the Digital Records and Access Systems competency: work in
 
 **What this shows I can do:**
 
-Enter and manage collection records in a live, public-facing collections management system (PastPerfect) rather than only in a training or sandbox environment.
+Enter and manage collection records in a live, public-facing collections management system (PastPerfect).
 
-Build a digital access platform independently — setting up Omeka from scratch, including structure and metadata display, without step-by-step course guidance.
+Build a digital access platform independently — setting up Omeka from scratch, including structure and metadata display.
 
 Apply consistent description and metadata practices across two different systems with different constraints and audiences.
 
-Make processed, described collections actually discoverable and searchable online for the public, not just arranged on a shelf.
+Make processed, described collections actually discoverable and searchable online for the public.
 
 Work within an institutional system I don't control (a municipal government platform) while still producing a self-directed, independently built one (Omeka) — showing range across both constrained and open-ended digital environments.
 
