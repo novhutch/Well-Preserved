@@ -21,11 +21,15 @@ document coursework and hands-on experience toward degree completion
 - [05 — Preservation](../independent/05-preservation)
   - [Audacity](../independent/05-preservation/Audacity)
 - [06 — Digital Records and Access Systems](../independent/06-digital-records-access-systems)
-  - [Omeka](../independent/06-digital-records-access-systems/Omeka)
+  - [Omeka](https://newengland.omeka.net)
   - [PastPerfect](../independent/06-digital-records-access-systems/PastPerfect)
+    - [Mike Williams Art Collection](https://savannahga.pastperfectonline.com/Search?search_criteria=1121-095&onlyimages=false)
+    - [W. W. Law NAACP Collection](https://savannahga.pastperfectonline.com/AdvancedSearch?advanceSearchActivated=true&firstTimeSearch=true&search_include_photos=true&search_include_archives=true&search_include_library=true&search_include_creators=true&search_include_people=true&search_include_containers=true&searchcat_1=&searchcat_2=1121-102&searchcat_3=&searchcat_4=&searchcat_5=&searchcat_6=&actionType=Search)
+    - [Historic Savannah East/West Maps Collection](https://savannahga.pastperfectonline.com/Search?page=1&search_criteria=3121-008&onlyimages=False)
+    - [Joanna B. Flynn Civil Defense Collection](https://savannahga.pastperfectonline.com/Search?search_criteria=1121-097&onlyimages=false)
 - [09 — Outreach and Advocacy](../independent/09-outreach-advocacy)
   - [Displays](../independent/09-outreach-advocacy/Displays)
-  - [StoryRoots](../independent/09-outreach-advocacy/StoryRoots)
+  - [StoryRoots](https://www.savannahga.gov/4323/StoryRoots)
 
 **Certificates**
 

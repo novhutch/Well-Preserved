@@ -3,5 +3,4 @@
 
 Coursework artifact for the Management and Administration competency: a museum outreach presentation.
 
-**Artifact:** *In progress*
-
+**Artifact:** [Museum Outreach Presentation](Museum%20Outreach%20Presentation.pptx)
