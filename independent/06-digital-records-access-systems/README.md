@@ -5,7 +5,7 @@ Hands-on artifact for the Digital Records and Access Systems competency: work in
 
 **Artifact:** 
 
-[Visit the Omeka site](https://your-actual-omeka-url-here)
+[Visit the Omeka site] https://newengland.omeka.net
 
 PastPerfect: *In process*
 
