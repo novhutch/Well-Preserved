@@ -5,7 +5,15 @@ Hands-on artifact for the Digital Records and Access Systems competency: work in
 
 **Artifact:** 
 
-[Visit the Omeka site] https://newengland.omeka.net
+Omeka site: https://newengland.omeka.net
 
-PastPerfect: *In process*
+PastPerfect:
+
+Mike Williams Art Collection
+
+W. W. Law NAACP Collection
+
+Joanna B. Flynn Civil Defense Collection
+
+Historic Savannah East/West Maps
 
