@@ -5,6 +5,23 @@ Archival and Information Studies at Clayton State University, to
 document coursework and hands-on experience toward degree completion
 (expected December 2026).
 
+Portfolio last reviewed: 2026-10-12
+
+**How to Read This Page**
+
+This page is the Table of Contents for the whole portfolio. It lists every artifact once, at its current version.
+
+Version numbers appear in file names, for example Accession-Record_v1.0_2026-10-01. A whole-number change (v1.0 to v2.0) means a real revision. A decimal change (v1.0 to v1.1) means a small correction. The date is the day that version was finished.
+
+Each document's first page carries a line such as "Version 1.0 | 2026-10-01 | Current."
+
+Earlier versions are kept by the author. The "History" button on any file on GitHub shows earlier versions saved here.
+
+The resume, its supporting pages, and the certificates keep their original file names. Their versions and dates are listed in the tables below.
+
+Items held at the Savannah Municipal Archives are described in the section below the tables, with the date each was last reviewed.
+
+
 ## Contents
 
 **With Guidance** — coursework
