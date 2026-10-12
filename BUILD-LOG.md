@@ -14,9 +14,9 @@
 ## 2026-10-12: PastPerfect link checks
 | Link | Collection | Opened correctly? | Date checked |
 |---|---|---|---|
-| 1 |  | [yes/no] | 2026-10-12 |
-| 2 | [name] | [yes/no] | 2026-10-12 |
-| 3 | [name] | [yes/no] | 2026-10-12 |
-| 4 | [name] | [yes/no] | 2026-10-12 |
+| 1 | Mike Williams Collection | yes | 2026-10-12 |
+| 2 | W. W. Law NAACP Savannah Collection | yes | 2026-10-12 |
+| 3 | Historic Savannah East/West Maps Collection| yes | 2026-10-12 |
+| 4 | Joanna B. Flynn Civil Defense Collection | yes | 2026-10-12 |
 - If a link stops working: note the date, contact the Archives, replace the link
 - Next check: 2026-10-18
