@@ -34,3 +34,9 @@ document coursework and hands-on experience toward degree completion
 **Certificates**
 
 - [certificates](../certificates)
+
+
+**Resume**
+
+- [resume](../resume)
+  - [Amanda_Hutchinson_Resume.pdf](../resume/Amanda_Hutchinson_Resume.pdf)
