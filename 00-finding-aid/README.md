@@ -17,9 +17,7 @@ Each document's first page carries a line such as "Version 1.0 | 2026-10-01 | Cu
 
 Earlier versions are kept by the author. The "History" button on any file on GitHub shows earlier versions saved here.
 
-The resume, its supporting pages, and the certificates keep their original file names. Their versions and dates are listed in the tables below.
-
-Items held at the Savannah Municipal Archives are described in the section below the tables, with the date each was last reviewed.
+The resume, its supporting pages, and the certificates keep their original file names. 
 
 
 ## Contents
