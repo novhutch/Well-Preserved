@@ -21,13 +21,15 @@ Graduate archival portfolio mapped to the nine SAA-aligned competency components
 3. [Digital Records and Access Systems](independent/06-digital-records-access-systems/)
 4. [Outreach and Advocacy](independent/09-outreach-advocacy/)
 
-See [00-finding-aid](00-finding-aid/) for the full repository map.## Resume
+See [00-finding-aid](00-finding-aid/) for the full repository map.
+
+## Resume
 
 **Target Position:** Entry-level Archivist at a municipal or community archive, with responsibilities in collection processing, preservation, and public education and outreach.
 
-This resume highlights hands-on archival processing at the Savannah Municipal Archives, original educational programs built on the W. W. Law collection, and preservation projects completed in graduate coursework.
+This resume highlights hands-on archival processing at the Savannah Municipal Archives and original educational programs built on the W. W. Law collection.
 
-- [Amanda Hutchinson – Resume - 2 (PDF)](resume/Amanda_Hutchinson_Resume.pdf)
+- [Amanda Hutchinson – Resume (PDF)](resume/Amanda_Hutchinson_Resume.pdf)
 - [Finding aid entry for the resume](resume/README.md)
 
 
