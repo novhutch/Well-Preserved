@@ -5,7 +5,7 @@ Archival and Information Studies at Clayton State University, to
 document coursework and hands-on experience toward degree completion
 (expected December 2026).
 
-Portfolio last reviewed: 2026-10-12
+Portfolio last reviewed: 2026-10-14
 
 **How to Read This Page**
 
@@ -44,6 +44,7 @@ The resume, its supporting pages, and the certificates keep their original file 
     - [Joanna B. Flynn Civil Defense Collection](https://savannahga.pastperfectonline.com/Search?search_criteria=1121-097&onlyimages=false)
 - [09 — Outreach and Advocacy](../independent/09-outreach-advocacy)
   - [Displays](../independent/09-outreach-advocacy/Displays)
+  - [Lessons](../independent/09-outreach-advocacy/Lessons)
   - [StoryRoots](https://www.savannahga.gov/4323/StoryRoots)
 
 **Certificates**

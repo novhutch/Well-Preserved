@@ -25,3 +25,4 @@
 - What: Added three lesson plans for grades 3-5 (Postage Stamp, W. W. Law as a Leader, Delivering History: The Story of the Mail) in independent/09-outreach-advocacy/Lessons.
 - Also updated: the Outreach folder description, and checksums.txt so the new files are covered.
 - Result on 2026-10-14: all OK
+- Also updated: the finding aid (00-finding-aid/README.md) now lists Lessons, and its last-reviewed date.
