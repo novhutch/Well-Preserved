@@ -1,7 +1,7 @@
 # 09 — Outreach and Advocacy
-**Tags:** outreach, community archives
+**Tags:** outreach, civil rights, community archives
 
-Hands-on artifacts for the Outreach and Advocacy competency: curated display photographs and the StoryRoots project.
+Hands-on artifacts for the Outreach and Advocacy competency: curated display photographs, the StoryRoots project, and educational lesson plans for grades 3-5.
 
 **What this shows I can do:**
 
@@ -19,3 +19,4 @@ Work across two different outreach formats — a static physical/photographic di
 
 - [Curated Displays](Displays/)
 - [StoryRoots](StoryRoots/)
+- [Lessons](Lessons/)

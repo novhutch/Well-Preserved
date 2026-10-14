@@ -20,3 +20,8 @@
 | 4 | Joanna B. Flynn Civil Defense Collection | yes | 2026-10-12 |
 - If a link stops working: note the date, contact the Archives, replace the link
 - Next check: 2026-10-18
+
+## 2026-10-14: Lesson plans added to Outreach and Advocacy
+- What: Added three lesson plans for grades 3-5 (Postage Stamp, W. W. Law as a Leader, Delivering History: The Story of the Mail) in independent/09-outreach-advocacy/Lessons.
+- Also updated: the Outreach folder description, and checksums.txt so the new files are covered.
+- Result on 2026-10-14: all OK
