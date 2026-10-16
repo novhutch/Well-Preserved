@@ -2,7 +2,7 @@
 
 **Target Position:** Entry-level Archivist at a municipal or community archive, with responsibilities in collection processing, preservation, and public education and outreach.
 
-**Positioning Statement:** Archival professional who makes community history findable and teachable. Hands-on experience processing, describing, preserving, and digitizing Civil Rights, art, and civic collections at the Savannah Municipal Archives, applying national descriptive standards and developing public-facing programs that connect historical records to contemporary audiences. Graduate training in archival theory and practice, combined with a proven record of project ownership, curriculum and program design, and cross-functional leadership gained through teaching, nonprofit service, and small-business management.
+**Positioning Statement:** Archival professional who makes municipal and community history findable and teachable. Hands-on experience arranging, describing, cataloging, preserving, and digitizing Civil Rights, art, and civic collections at the City of Savannah Office of Municipal Archives and History, applying DACS and national descriptive standards and maintaining PastPerfect records that give the public online access. Graduate training in archival theory and practice, including appraisal, preservation, and records management, combined with curriculum and program design and customer-focused service gained through teaching and small-business ownership.
 
 **Title:** Amanda Hutchinson – Archivist Resume
 
