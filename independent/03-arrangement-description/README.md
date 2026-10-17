@@ -15,7 +15,7 @@ Apply a consistent descriptive standard across collections with very different s
 Assign and apply controlled-vocabulary subject tags consistently across finding aids, so related collections can be found together.
 
 **Artifacts:**
-- [Mike Williams Art Collection finding aid](1121-095_MikeWilliamsFA_2026-05.docx) — **Tags:** arrangement, DACS, community archives, local artists, art
-- [Rev. Southall Brown Collection finding aid](Southall%20Brown%20FA.docx) — **Tags:** arrangement, DACS, community archives, civil rights, religion
+- [Mike Williams Art Collection finding aid](Mike-Williams-Finding-Aid_v1.0_2026-10-01.pdf) — **Tags:** arrangement, DACS, community archives, local artists, art
+- [Rev. Southall Brown Collection finding aid](Southall-Brown-Finding-Aid_v1.0_2026-10-01.pdf) — **Tags:** arrangement, DACS, community archives, civil rights, religion
 
 The Southall Brown finding aid is part of a broader, sustained interest in Savannah's Civil Rights history and community archives; the Mike Williams Collection is an art collection processed under the same DACS-based arrangement and description approach.

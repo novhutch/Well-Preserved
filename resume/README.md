@@ -18,4 +18,4 @@
 
 **Tags:** DACS, digitization, outreach, PastPerfect, Omeka, ArchivesSpace, records management, community archives, civil rights
 
-[Amanda_Hutchinson_Resume.pdf](Amanda_Hutchinson_Resume.pdf)
+[Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf](Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf)

@@ -29,7 +29,7 @@ See [00-finding-aid](00-finding-aid/) for the full repository map.
 
 This resume highlights hands-on archival processing at the Savannah Municipal Archives and original educational programs built on the W. W. Law collection.
 
-- [Amanda Hutchinson – Resume (PDF)](resume/Amanda_Hutchinson_Resume.pdf)
+- [Amanda Hutchinson – Resume (PDF)](resume/Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf)
 - [Finding aid entry for the resume](resume/README.md)
 
 

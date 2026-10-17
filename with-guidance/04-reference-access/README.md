@@ -13,4 +13,4 @@ Balance access with the archives' other obligations — showing awareness of whe
 
 Communicate policy and procedure clearly to a non-archivist audience, a core reference-desk skill.
 
-**Artifact:** [Patron Relations Presentation](Patron%20Relations.pptx)
+**Artifact:** [Patron Relations Presentation](Patron-Relations-Presentation_v1.0_2026-10-01.pptx)
