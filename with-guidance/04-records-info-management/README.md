@@ -10,5 +10,5 @@ Coursework artifact for the Records Information Management competency: A full in
 **What this artifact covers:**
 The policy is organized around the full records lifecycle rather than a single procedure, which is what makes it a substantial artifact for this competency.
 
-**Artifact:** [Records Management Policy](Records-Management-Policy_v1.0_2026-10-01.pdf)
+**Artifact:** [Records Management Policy](Records-Management-Policy_v1.1_2026-10-24.pdf)
 

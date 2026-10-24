@@ -15,4 +15,4 @@ Account for donor relations and rights considerations within a formal document, 
 
 Recognize acquisition as the gateway step that everything else (arrangement, description, access) depends on.
 
-**Artifact:** [Deed of Gift](Deed-of-Gift_v1.0_2026-10-01.pdf)
+**Artifact:** [Deed of Gift](Deed-of-Gift_v1.1_2026-10-24.pdf)

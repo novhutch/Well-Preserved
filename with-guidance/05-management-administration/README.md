@@ -14,4 +14,4 @@ Apply a planning framework (mission, vision, goals, objectives, tactics) that ca
 
 Anticipate the staffing and resourcing implications of ambitious goals, rather than writing aspirational language with no path to implementation.
 
-**Artifact:** [Strategic Plan](Strategic-Plan_v1.0_2026-10-01.pdf)
+**Artifact:** [Strategic Plan](Strategic-Plan_v1.1_2026-10-24.pdf)
