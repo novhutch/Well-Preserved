@@ -1,4 +1,4 @@
-# 05 — Preservation
+# 02 — Preservation
 **Tags:** digitization
 
 Hands-on artifact for the Preservation competency: Analog-to-digital reformatting of audiocassette material using Audacity, demonstrating audio preservation workflow rather than physical/environmental preservation technique.

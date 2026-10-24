@@ -10,16 +10,16 @@ Graduate archival portfolio mapped to the nine SAA-aligned competency components
 
 1. [Nature of Records and Archives](with-guidance/01-nature-of-records/) — Accession Record
 2. [Appraisal and Acquisition](with-guidance/02-appraisal-acquisition/) — Deed of Gift
-3. [Reference and Access](with-guidance/04-reference-access/)
-4. [Records Information Management](with-guidance/07-records-info-management/) — Records Management Policy
-5. [Management and Administration](with-guidance/08-management-administration/)
+3. [Reference and Access](with-guidance/03-reference-access/)
+4. [Records Information Management](with-guidance/04-records-info-management/) — Records Management Policy
+5. [Management and Administration](with-guidance/05-management-administration/)
 
 ## Independent (hands-on)
 
-1. [Arrangement and Description](independent/03-arrangement-description/) — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
-2. [Preservation](independent/05-preservation/) - Audiocassette Digitization
-3. [Digital Records and Access Systems](independent/06-digital-records-access-systems/)
-4. [Outreach and Advocacy](independent/09-outreach-advocacy/)
+1. [Arrangement and Description](independent/01-arrangement-description/) — Mike Williams Art Collection finding aid, Rev. Southall Brown Collection finding aid
+2. [Preservation](independent/02-preservation/) - Audiocassette Digitization
+3. [Digital Records and Access Systems](independent/03-digital-records-access-systems/)
+4. [Outreach and Advocacy](independent/04-outreach-advocacy/)
 
 See [00-finding-aid](00-finding-aid/) for the full repository map.
 

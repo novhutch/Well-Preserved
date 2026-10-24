@@ -1,4 +1,4 @@
-# 04 — Reference and Access
+# 03 — Reference and Access
 **Tags:** outreach
 
 Coursework artifact for the Reference and Access competency: a Patron Relations presentation.

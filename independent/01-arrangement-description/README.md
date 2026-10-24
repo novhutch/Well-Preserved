@@ -1,4 +1,4 @@
-# 03 — Arrangement and Description
+# 01 — Arrangement and Description
 
 Hands-on finding aids demonstrating arrangement and description under DACS, for two named collections.
 

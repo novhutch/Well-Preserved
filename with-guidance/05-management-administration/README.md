@@ -1,4 +1,4 @@
-# 08 — Management and Administration
+# 05 — Management and Administration
 
 Coursework artifact for the Management and Administration competency: a five-year strategic plan written for a hypothetical university library and archives.
 

@@ -1,4 +1,4 @@
-# 07 — Records Information Management
+# 04 — Records Information Management
 **Tags:** records management
 
 Coursework artifact for the Records Information Management competency: A full institutional records management policy written for a fictional repository (the Second World War Archive), covering the records lifecycle from creation through disposition or permanent preservation. 
