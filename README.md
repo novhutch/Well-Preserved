@@ -23,7 +23,7 @@ Graduate archival portfolio mapped to the nine SAA-aligned competency components
 
 ## Portfolio documentation
 
-- [Portfolio Documentation](portfolio-documentation/) — Evidence Map, Planning Notes, Ethics and Permissions, Accessibility Remediation Log (Preservation and Export Log in progress)
+- [Portfolio Documentation](portfolio-documentation/) — Evidence Map, Planning Notes, Ethics and Permissions, Accessibility Remediation Log
 
 See [00-finding-aid](00-finding-aid/) for the full repository map.
 

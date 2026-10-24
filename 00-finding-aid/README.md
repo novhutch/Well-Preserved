@@ -53,7 +53,7 @@ The resume, its supporting pages, and the certificates keep their original file 
   - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.0_2026-10-24.pdf)
   - [Planning Notes](../portfolio-documentation/Planning-Notes_v1.0_2026-10-24.pdf)
   - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.0_2026-10-24.pdf)
-  - Preservation and Export Log (in progress)
+  - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.0_2026-10-24.pdf)
   - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.0_2026-10-24.pdf)
 
 **Certificates**
