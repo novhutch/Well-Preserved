@@ -5,7 +5,7 @@ Archival and Information Studies at Clayton State University, to
 document coursework and hands-on experience toward degree completion
 (expected December 2026).
 
-Portfolio last reviewed: 2026-10-14
+Portfolio last reviewed: 2026-10-24
 
 **How to Read This Page**
 
@@ -46,6 +46,15 @@ The resume, its supporting pages, and the certificates keep their original file 
   - [Displays](../independent/04-outreach-advocacy/Displays)
   - [Lessons](../independent/04-outreach-advocacy/Lessons)
   - [StoryRoots](https://www.savannahga.gov/4323/StoryRoots)
+
+**Portfolio Documentation** — how the portfolio was selected, managed, and protected
+
+- [portfolio-documentation](../portfolio-documentation)
+  - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.0_2026-10-24.pdf)
+  - [Planning Notes](../portfolio-documentation/Planning-Notes_v1.0_2026-10-24.pdf)
+  - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.0_2026-10-24.pdf)
+  - Preservation and Export Log (in progress)
+  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.0_2026-10-24.pdf)
 
 **Certificates**
 
