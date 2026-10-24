@@ -1,3 +1,5 @@
+# Lesson Plans
+
 Educational Lesson Plans for the City of Savannah Office of Municipal Archives and History
 
 **Artifacts:**

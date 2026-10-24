@@ -20,6 +20,6 @@ Recognize preservation as format-dependent — showing that "preservation" isn't
 
 [Audiocassette Tape Digitization Guide](Audacity/Audiocassette%20Tape%20Digitization%20Guide.docx)
 
-[Audacity screenshot 1](Audacity/Screenshot%202026-09-03%20134134.png)
+[Audacity screenshot: metadata tags window](Audacity/Screenshot%202026-09-03%20134134.png) — Screenshot of the Audacity audio program with its Edit Metadata Tags window open, showing the tags filled in for a recording: album title, track number, year, who digitized it, and the digitized date (2026-09-03).
 
-[Audacity screenshot 2](Audacity/Screenshot%202026-09-03%20134155.png)
+[Audacity screenshot: export window](Audacity/Screenshot%202026-09-03%20134155.png) — Screenshot of the Audacity Export Audio window with the format set to WAV, 32-bit PCM encoding, mono, and the entire project selected for export.
