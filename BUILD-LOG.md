@@ -34,4 +34,10 @@
 - Next step: rebuild the fingerprint list (checksums.txt) after the remaining updates.
 - Note: Entries above this one use the old folder names.
 
+## 2026-10-24: Accessibility fixes
+- What: Fixed accessibility problems in the README pages, Word files, and PDFs, and recorded each one in the Accessibility Remediation Log.
+- Why: The portfolio needs to work for readers who use screen readers or have low vision.
+- Result: Accessibility checkers on each fixed file report no issues.
+- Not fixed yet: Certificate PDFs, speaker-icon descriptions, narration text, and slide contrast. Plan to update by 2026-11-01
+
 
