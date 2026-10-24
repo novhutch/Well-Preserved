@@ -40,4 +40,12 @@
 - Result: Accessibility checkers on each fixed file report no issues.
 - Not fixed yet: Certificate PDFs, speaker-icon descriptions, narration text, and slide contrast. Plan to update by 2026-11-01
 
+## 2026-10-24: Portfolio documentation, PDF updates, and export test
+- What: Added a portfolio-documentation folder with five documents: Evidence Map, Planning Notes, Ethics and Permissions, Preservation and Export Log, and Accessibility Remediation Log. It is linked from the main README and the finding aid.
+- Also updated: Re-exported five PDFs as accessible v1.1 files (Mike Williams finding aid, Accession Record, Deed of Gift, Records Management Policy, Strategic Plan) and updated every link to them.
+- Export test: Downloaded the whole portfolio from GitHub as a ZIP, unzipped it, and ran the fingerprint check. All files said OK. Results are in the Preservation and Export Log.
+- Fingerprint list: Rebuilt checksums.txt after the last change. It now covers 50 files and every one checks OK. It does not include checksums.txt itself or hidden system files.
+- Still version 1.0: Southall Brown finding aid and Patron Relations presentation, because the accessible versions are not finished. The resume did not need changes.
+- Not fixed yet: Certificate PDFs, speaker-icon descriptions, narration text, slide contrast, and the Southall Brown PDF. Plan to update by 2026-11-01.
+
 
