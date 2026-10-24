@@ -27,4 +27,10 @@
 - Result on 2026-10-14: all OK
 - Also updated: the finding aid (00-finding-aid/README.md) now lists Lessons, and its last-reviewed date.
 
+**2026-10-24: Folder renumbering**
+
+What: Renumbered folders inside each group (with-guidance 01 to 05, independent 01 to 04) and updated all links.
+Why: The old numbers followed the nine competency numbers, so each group skipped numbers and the README lists did not match the folders.
+Note: Earlier entries in this log use the old folder names.
+
 
