@@ -8,7 +8,7 @@
 
 **Competency:** Not tied to one competency (professional document)
 
-**Date of creation:** 2026-10
+**Date of creation:** 2026-10 (revised 2026-11)
 
 **Format:** PDF, 3 pages (tagged for accessibility)
 
@@ -18,4 +18,4 @@
 
 **Tags:** DACS, digitization, outreach, PastPerfect, Omeka, ArchivesSpace, records management, community archives, civil rights
 
-[Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf](Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf)
+[Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf](Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)

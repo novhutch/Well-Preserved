@@ -68,3 +68,4 @@
 - Preservation: added a PDF copy beside each Word file. Preservation and Export Log is now v1.1 and lists four separate copies. Evidence Map is now v1.1.
 - Removed from the live site (kept in GitHub History): the v1.0 files replaced above, and Planning Notes v1.0.
 - Why: Peer reviewers had trouble finding the selection and silence evidence (Strand 4), could not tell which course some artifacts came from (Strand 1), and one treated GitHub alone as preservation (Strand 6).
+- Also on 2026-11-07: Removed the Word versions of the three lesson plans and the Audiocassette Tape Digitization Guide; the accessible PDFs are now the copies shared here. Replaced the resume with v2.0. Named the City of Savannah Office of Municipal Archives and History on each hands-on page, and expanded Start here to explain what a finding aid is.

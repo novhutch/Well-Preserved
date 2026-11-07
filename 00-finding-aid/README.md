@@ -72,7 +72,7 @@ The resume, its supporting pages, and the certificates keep their original file 
 **Resume**
 
 - [resume](../resume)
-  - [Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf](../resume/Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf)
+  - [Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf](../resume/Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)
 
 ## Folder numbers and competency numbers
 

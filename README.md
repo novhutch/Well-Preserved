@@ -12,9 +12,10 @@ I became an archivist to make sure underrepresented voices are preserved for fut
 
 ## Start here
 
-- New to this portfolio? Begin with the [Finding Aid](00-finding-aid/), a map of every artifact.
-- Reviewing against the scoring criteria? The [Evidence Map](portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf) shows where the evidence for each criterion is.
-- To request a copy of an item or permission to use it, email arhutch03@yahoo.com.
+- **New to this portfolio?** Begin with the [Finding Aid](00-finding-aid/). In archives, a finding aid is a guide to a collection: it explains what the collection is, who made it, and how it is organized, and lists what it contains, like a detailed table of contents. This portfolio's finding aid does the same for my work, listing every artifact once under the skill it shows.
+- **Want to see the work itself?** The two lists below group my artifacts into coursework (*With guidance*) and work done at a real archives (*Independent*). Each link opens a page that explains the artifact, what it shows I can do, what it taught me, and where it came from, with links to the files.
+- **Reviewing against the scoring criteria?** The [Evidence Map](portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf) shows where the evidence for each criterion is.
+- **Want to use an item?** To request a copy or permission, email arhutch03@yahoo.com.
 
 ## With guidance (coursework)
 
@@ -43,7 +44,7 @@ See [00-finding-aid](00-finding-aid/) for the full repository map.
 
 This resume highlights hands-on archival processing at the Savannah Municipal Archives and original educational programs built on the W. W. Law collection.
 
-- [Amanda Hutchinson – Resume (PDF)](resume/Amanda-Hutchinson-Resume_v1.0_2026-10-01.pdf)
+- [Amanda Hutchinson – Resume (PDF)](resume/Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)
 - [Finding aid entry for the resume](resume/README.md)
 
 

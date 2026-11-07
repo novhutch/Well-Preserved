@@ -19,7 +19,7 @@ Work within an institutional system I don't control (a municipal government plat
 
 Working in PastPerfect taught me to describe collections well inside a system I did not design and cannot change, while building my own Omeka site taught me what it takes to make a collection findable from scratch. Together they showed me that online access depends as much on careful description as on the platform.
 
-**Origin:** PastPerfect work done during my internship at the Savannah Municipal Archives. The Omeka site began as a course assignment and was built on my own, using my own photographs.
+**Origin:** PastPerfect work done during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History). The Omeka site began as a course assignment and was built on my own, using my own photographs.
 
 **Artifact:** 
 
