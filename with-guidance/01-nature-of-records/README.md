@@ -10,7 +10,7 @@ The record documents the intake of a 5 GB digital collection (1932–2012) donat
 
 **What this taught me:**
 
-Working through every required element of an accession record taught me that intake is where an archive's knowledge of a collection begins. If custody history, rights and restrictions are not captured at the door, they are hard to recover later. Because this collection was born-digital, it also showed me that digital material arrives with its own questions, such as file formats and storage, that a paper-only workflow never asks.
+This assignment showed me how much depends on the very first step. If the custody history, rights, and restrictions are not written down when a collection comes through the door, the next archivist is left guessing. The ACME collection was born-digital, which raised questions I had not thought about yet, like file formats and where the files would actually live.
 
 **Origin:** Created for ARST 5500: Archive Appraisal, Selection, and Evaluation, Clayton State University. The ACME Corporation collection and its donor are fictional, created for this assignment.
 

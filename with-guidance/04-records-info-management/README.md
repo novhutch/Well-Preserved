@@ -12,7 +12,7 @@ The policy is organized around the full records lifecycle rather than a single p
 
 **What this taught me:**
 
-Writing a full records management policy taught me to think about records long before they reach an archive. Decisions made when records are created, such as how they are named, kept and scheduled, determine what survives to be preserved.
+Records management taught me that preservation starts long before records reach an archive. The choices an office makes when a record is first created, such as what to call it, where to keep it, and how long to hold on to it, decide whether it survives long enough to be preserved at all.
 
 **Origin:** Created for ARST 5400: Records Management, Clayton State University. Written for a fictional repository (the Second World War Archive).
 

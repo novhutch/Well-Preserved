@@ -17,7 +17,7 @@ Recognize preservation as format-dependent — showing that "preservation" isn't
 
 **What this taught me:**
 
-Digitizing audiocassettes taught me that audio preservation is a race against the carrier: once a tape degrades, its content is gone. It also taught me restraint, cleaning up only what affects listening, so the digital copy stays faithful to the original recording.
+Digitizing audiocassettes taught me that audio preservation is a race against time. Once a tape breaks down, the voices on it are gone. It also taught me restraint: I cleaned up only what got in the way of listening, so the digital copy stays true to the original recording.
 
 **Origin:** Created during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History). The digitized recordings themselves are kept on the Archives' own servers and hard drives, not in this portfolio.
 

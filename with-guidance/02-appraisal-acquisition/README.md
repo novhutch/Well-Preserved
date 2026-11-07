@@ -17,7 +17,7 @@ Recognize acquisition as the gateway step that everything else (arrangement, des
 
 **What this taught me:**
 
-Drafting a deed of gift taught me that acquisition is a relationship as much as a transaction. Every clause, from the transfer of copyright to a donor's restrictions, decides what researchers will and will not be able to do with the material decades from now.
+Writing a deed of gift showed me that acquisition is built on trust between the donor and the archives. Every clause, from copyright to restrictions, decides what researchers will and will not be able to do with the materials years from now, so each one has to be written with care.
 
 **Origin:** Created for ARST 5500: Archive Appraisal, Selection, and Evaluation, Clayton State University. The donor and records described are fictional, created for this assignment.
 

@@ -17,7 +17,7 @@ Work within an institutional system I don't control (a municipal government plat
 
 **What this taught me:**
 
-Working in PastPerfect taught me to describe collections well inside a system I did not design and cannot change, while building my own Omeka site taught me what it takes to make a collection findable from scratch. Together they showed me that online access depends as much on careful description as on the platform.
+PastPerfect taught me to do careful work inside a system I did not build and cannot change. Building my own Omeka site taught me what it takes to make a collection findable from the ground up. Both showed me that online access depends on description. Clear titles, dates, creator names, and subject terms, entered the same way every time, are what let a researcher's search actually find a record. Good metadata is what turns a digital file into something a researcher can find, understand, and trust.
 
 **Origin:** PastPerfect work done during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History). The Omeka site began as a course assignment and was built on my own, using my own photographs.
 

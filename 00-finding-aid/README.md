@@ -13,7 +13,7 @@ This page is the Table of Contents for the whole portfolio. It lists every artif
 
 Version numbers appear in file names, for example Accession-Record_v1.0_2026-10-01. A whole-number change (v1.0 to v2.0) means a real revision. A decimal change (v1.0 to v1.1) means a small correction. The date is the day that version was finished.
 
-Each document's first page carries a line such as "Version 1.0 | 2026-10-01 | Current."
+Each portfolio document (the coursework artifacts and the portfolio documentation) carries a line on its first page such as "Version 1.0 | 2026-10-01 | Current." Finding aids, lesson plans, and guides keep their own title pages.
 
 Earlier versions are kept by the author. The "History" button on any file on GitHub shows earlier versions saved here.
 
@@ -29,7 +29,7 @@ The resume, its supporting pages, and the certificates keep their original file 
 - [02 — Appraisal and Acquisition](../with-guidance/02-appraisal-acquisition)
   - [Deed of Gift](../with-guidance/02-appraisal-acquisition/Deed-of-Gift_v1.1_2026-10-24.pdf)
 - [03 — Reference and Access](../with-guidance/03-reference-access)
-  - [Patron Relations Presentation](../with-guidance/03-reference-access/Patron-Relations-Presentation_v1.1_2026-11-06.pptx), with a [PDF of the slides](../with-guidance/03-reference-access/Patron-Relations-Presentation_v1.1_2026-11-06.pdf) and a [narration transcript](../with-guidance/03-reference-access/PowerPoint_Transcript_v1.1_2026-11-06.pdf)
+  - [Patron Relations Presentation](../with-guidance/03-reference-access/Patron-Relations-Presentation_v1.1_2026-11-06.pptx), with a [PDF of the slides](../with-guidance/03-reference-access/Patron-Relations-Presentation_v1.1_2026-11-06.pdf) and a [narration transcript](../with-guidance/03-reference-access/PowerPoint_Transcript_v1.0_2026-11-06.pdf)
 - [04 — Records Information Management](../with-guidance/04-records-info-management)
   - [Records Management Policy](../with-guidance/04-records-info-management/Records-Management-Policy_v1.1_2026-10-24.pdf)
 - [05 — Management and Administration](../with-guidance/05-management-administration)
@@ -60,7 +60,7 @@ The resume, its supporting pages, and the certificates keep their original file 
   - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf)
   - [Selection Criteria](../portfolio-documentation/Selection-Criteria_v2.0_2026-11-06.pdf)
   - [Archival Practice in Context](../portfolio-documentation/Archival-Practice-in-Context_v1.0_2026-11-06.pdf)
-  - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.0_2026-10-24.pdf)
+  - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.1_2026-11-07.pdf)
   - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.1_2026-11-06.pdf)
   - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.1_2026-11-06.pdf)
 

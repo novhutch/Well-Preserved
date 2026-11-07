@@ -17,7 +17,7 @@ Assign and apply controlled-vocabulary subject tags consistently across finding 
 
 **What this taught me:**
 
-Processing real, unprocessed collections taught me that arrangement decisions are judgment calls with consequences: keeping or changing the order a collection arrived in shapes what researchers can find. Describing the Southall Brown papers also taught me to write about people with care, naming them only as the donor provided.
+Processing real collections taught me that arrangement is a judgment call with consequences. Whether I kept the order the materials arrived in or changed it decided what a researcher would be able to find. Working on the Southall Brown papers also taught me to describe people with care, naming them only as the donor provided, because these papers belong to a family and a community.
 
 **Origin:** Created during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History).
 

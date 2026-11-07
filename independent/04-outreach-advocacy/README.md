@@ -17,7 +17,7 @@ Work across two different outreach formats — a static physical/photographic di
 
 **What this taught me:**
 
-Outreach taught me that most people meet the archive through what we choose to show them. Designing displays, contributing to StoryRoots and writing lessons for grades 3 to 5 showed me how to share community and civil rights history with people who may never visit a reading room, and how much they have to add to the record themselves.
+Outreach taught me that most people meet an archive through what we choose to show them. Building displays, contributing to StoryRoots, and writing lessons for third through fifth graders showed me how to bring Savannah's community and civil rights history to people who may never visit a reading room. It also reminded me why I became an archivist: the community has as much to add to the record as we have to share.
 
 **Origin:** Created during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History).
 

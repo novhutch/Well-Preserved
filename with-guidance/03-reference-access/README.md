@@ -15,7 +15,7 @@ Communicate policy and procedure clearly to a non-archivist audience, a core ref
 
 **What this taught me:**
 
-Building this training taught me to see the archive from the patron's side of the desk: most frustration comes from unmet expectations, not from the materials themselves. Writing out the recorded narration as a transcript also taught me that an accessible presentation has to work for people who cannot hear it, not only for those who can.
+I built this training before I had worked in a real archive, imagining what a patron needs from the other side of the desk. Putting it together taught me that most patron frustration comes from expectations, not from the materials. Writing out my own narration as a transcript also taught me that a presentation is not accessible just because it has audio. It has to work for someone who cannot hear it.
 
 **Origin:** Created for ARST 5170: Reference, Access, and Outreach, Clayton State University. Written for a fictional repository (Old Town Historical Society), using fictional scenarios, before I had worked in a real archive.
 
@@ -23,4 +23,4 @@ Building this training taught me to see the archive from the patron's side of th
 
 - [Patron Relations Presentation (PowerPoint, with recorded narration)](Patron-Relations-Presentation_v1.1_2026-11-06.pptx)
 - [Patron Relations Presentation (PDF of the slides)](Patron-Relations-Presentation_v1.1_2026-11-06.pdf)
-- [Narration transcript (PDF)](PowerPoint_Transcript_v1.1_2026-11-06.pdf) — the full text of the recorded narration, for readers who cannot or prefer not to listen
+- [Narration transcript (PDF)](PowerPoint_Transcript_v1.0_2026-11-06.pdf) — the full text of the recorded narration, for readers who cannot or prefer not to listen

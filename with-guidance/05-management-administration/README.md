@@ -17,7 +17,7 @@ Anticipate the staffing and resourcing implications of ambitious goals, rather t
 
 **What this taught me:**
 
-The strategic plan taught me that goals mean little without people and resources behind them. Assigning each tactic to a staff role made me ask whether a small archives could actually carry out what I was proposing.
+The strategic plan taught me that a goal without a person and resources behind it is only a wish. Assigning every task in the plan to a staff member made me ask, honestly, whether a small archives could carry out what I was proposing.
 
 **Origin:** Created for ARST 6620: Managing Archives, Clayton State University. Written for a hypothetical university library and archives.
 

@@ -23,6 +23,6 @@ Find and fix accessibility problems, and keep a log of each fix and why it matte
 - [Evidence Map](Evidence-Map_v1.1_2026-11-06.pdf) — where to find the evidence for each scoring criterion
 - [Selection Criteria](Selection-Criteria_v2.0_2026-11-06.pdf) — how I chose what goes in the portfolio, what that choice leaves out, and how I managed building it
 - [Archival Practice in Context](Archival-Practice-in-Context_v1.0_2026-11-06.pdf) — archival principles in my work, how archives differ from allied professions, and the social context of the records
-- [Ethics and Permissions](Ethics-and-Permissions_v1.0_2026-10-24.pdf) — ethical decisions tied to the SAA Code of Ethics, and permissions for shared materials
+- [Ethics and Permissions](Ethics-and-Permissions_v1.1_2026-11-07.pdf) — ethical decisions tied to the SAA Code of Ethics, and permissions for shared materials
 - [Preservation and Export Log](Preservation-and-Export-Log_v1.1_2026-11-06.pdf) — how the portfolio is protected, copied, and tested outside GitHub
 - [Accessibility Remediation Log](Accessibility-Remediation-Log_v1.1_2026-11-06.pdf) — accessibility problems found, fixes made, and why each matters
