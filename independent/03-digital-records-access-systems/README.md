@@ -15,6 +15,12 @@ Make processed, described collections actually discoverable and searchable onlin
 
 Work within an institutional system I don't control (a municipal government platform) while still producing a self-directed, independently built one (Omeka) — showing range across both constrained and open-ended digital environments.
 
+**What this taught me:**
+
+Working in PastPerfect taught me to describe collections well inside a system I did not design and cannot change, while building my own Omeka site taught me what it takes to make a collection findable from scratch. Together they showed me that online access depends as much on careful description as on the platform.
+
+**Origin:** PastPerfect work done during my internship at the Savannah Municipal Archives. The Omeka site began as a course assignment and was built on my own, using my own photographs.
+
 **Artifact:** 
 
 [Omeka](https://newengland.omeka.net)

@@ -15,10 +15,16 @@ Document the transfer process — capturing technical metadata (equipment used, 
 
 Recognize preservation as format-dependent — showing that "preservation" isn't a single technique, but a set of skills that changes depending on whether the material is paper, photographic, or audio.
 
+**What this taught me:**
+
+Digitizing audiocassettes taught me that audio preservation is a race against the carrier: once a tape degrades, its content is gone. It also taught me restraint, cleaning up only what affects listening, so the digital copy stays faithful to the original recording.
+
+**Origin:** Created during my internship at the Savannah Municipal Archives. The digitized recordings themselves are held in the Archives' PastPerfect system, not in this portfolio.
+
 **Artifact:** 
 
 
-[Audiocassette Tape Digitization Guide](Audacity/Audiocassette%20Tape%20Digitization%20Guide.docx)
+[Audiocassette Tape Digitization Guide](Audacity/Audiocassette%20Tape%20Digitization%20Guide.docx) · [PDF copy](Audacity/Audiocassette%20Tape%20Digitization%20Guide.pdf)
 
 [Audacity screenshot: metadata tags window](Audacity/Screenshot%202026-09-03%20134134.png) — Screenshot of the Audacity audio program with its Edit Metadata Tags window open, showing the tags filled in for a recording: album title, track number, year, who digitized it, and the digitized date (2026-09-03).
 

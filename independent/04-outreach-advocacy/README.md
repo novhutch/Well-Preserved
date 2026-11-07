@@ -15,6 +15,12 @@ Support advocacy for community and civil rights history by helping make it visib
 
 Work across two different outreach formats — a static physical/photographic display and an ongoing, interactive public history project — showing range in how outreach can be done.
 
+**What this taught me:**
+
+Outreach taught me that most people meet the archive through what we choose to show them. Designing displays, contributing to StoryRoots and writing lessons for grades 3 to 5 showed me how to share community and civil rights history with people who may never visit a reading room, and how much they have to add to the record themselves.
+
+**Origin:** Created during my internship at the Savannah Municipal Archives.
+
 **Artifacts:**
 
 - [Curated Displays](Displays/)

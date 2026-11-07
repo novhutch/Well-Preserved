@@ -1,4 +1,5 @@
 # 05 — Management and Administration
+**Tags:** strategic planning, outreach, digitization
 
 Coursework artifact for the Management and Administration competency: a five-year strategic plan written for a hypothetical university library and archives.
 
@@ -13,5 +14,11 @@ Think at an institutional/leadership level — balancing student learning, profe
 Apply a planning framework (mission, vision, goals, objectives, tactics) that carries over directly into real strategic planning work in an archives or library setting.
 
 Anticipate the staffing and resourcing implications of ambitious goals, rather than writing aspirational language with no path to implementation.
+
+**What this taught me:**
+
+The strategic plan taught me that goals mean little without people and resources behind them. Assigning each tactic to a staff role made me ask whether a small archives could actually carry out what I was proposing.
+
+**Origin:** Created for ARST 6620: Managing Archives, Clayton State University. Written for a hypothetical university library and archives.
 
 **Artifact:** [Strategic Plan](Strategic-Plan_v1.1_2026-10-24.pdf)

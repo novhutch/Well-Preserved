@@ -15,4 +15,10 @@ Account for donor relations and rights considerations within a formal document, 
 
 Recognize acquisition as the gateway step that everything else (arrangement, description, access) depends on.
 
+**What this taught me:**
+
+Drafting a deed of gift taught me that acquisition is a relationship as much as a transaction. Every clause, from the transfer of copyright to a donor's restrictions, decides what researchers will and will not be able to do with the material decades from now.
+
+**Origin:** Created for ARST 5500: Archive Appraisal, Selection, and Evaluation, Clayton State University. The donor and records described are fictional, created for this assignment.
+
 **Artifact:** [Deed of Gift](Deed-of-Gift_v1.1_2026-10-24.pdf)

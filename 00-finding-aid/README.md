@@ -5,7 +5,7 @@ Archival and Information Studies at Clayton State University, to
 document coursework and hands-on experience toward degree completion
 (expected December 2026).
 
-Portfolio last reviewed: 2026-10-24
+Portfolio last reviewed: 2026-11-07
 
 **How to Read This Page**
 
@@ -25,14 +25,21 @@ The resume, its supporting pages, and the certificates keep their original file 
 **With Guidance** — coursework
 
 - [01 — Nature of Records and Archives](../with-guidance/01-nature-of-records)
+  - [Accession Record](../with-guidance/01-nature-of-records/Accession-Record_v1.1_2026-10-24.pdf)
 - [02 — Appraisal and Acquisition](../with-guidance/02-appraisal-acquisition)
+  - [Deed of Gift](../with-guidance/02-appraisal-acquisition/Deed-of-Gift_v1.1_2026-10-24.pdf)
 - [03 — Reference and Access](../with-guidance/03-reference-access)
+  - [Patron Relations Presentation](../with-guidance/03-reference-access/Patron-Relations-Presentation_v1.1_2026-11-06.pptx), with a [PDF of the slides](../with-guidance/03-reference-access/Patron-Relations-Presentation_v1.1_2026-11-06.pdf) and a [narration transcript](../with-guidance/03-reference-access/PowerPoint_Transcript_v1.1_2026-11-06.pdf)
 - [04 — Records Information Management](../with-guidance/04-records-info-management)
+  - [Records Management Policy](../with-guidance/04-records-info-management/Records-Management-Policy_v1.1_2026-10-24.pdf)
 - [05 — Management and Administration](../with-guidance/05-management-administration)
+  - [Strategic Plan](../with-guidance/05-management-administration/Strategic-Plan_v1.1_2026-10-24.pdf)
 
 **Independent** — hands-on
 
 - [01 — Arrangement and Description](../independent/01-arrangement-description)
+  - [Mike Williams Art Collection finding aid](../independent/01-arrangement-description/Mike-Williams-Finding-Aid_v1.1_2026-10-24.pdf)
+  - [Rev. Southall Brown Collection finding aid](../independent/01-arrangement-description/Southall-Brown-Finding-Aid_v1.1_2026-11-06.pdf)
 - [02 — Preservation](../independent/02-preservation)
   - [Audacity](../independent/02-preservation/Audacity)
 - [03 — Digital Records and Access Systems](../independent/03-digital-records-access-systems)
@@ -50,11 +57,12 @@ The resume, its supporting pages, and the certificates keep their original file 
 **Portfolio Documentation** — how the portfolio was selected, managed, and protected
 
 - [portfolio-documentation](../portfolio-documentation)
-  - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.0_2026-10-24.pdf)
-  - [Planning Notes](../portfolio-documentation/Planning-Notes_v1.0_2026-10-24.pdf)
+  - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf)
+  - [Selection Criteria](../portfolio-documentation/Selection-Criteria_v2.0_2026-11-06.pdf)
+  - [Archival Practice in Context](../portfolio-documentation/Archival-Practice-in-Context_v1.0_2026-11-06.pdf)
   - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.0_2026-10-24.pdf)
-  - Preservation and Export Log (in progress)
-  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.0_2026-10-24.pdf)
+  - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.1_2026-11-06.pdf)
+  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.1_2026-11-06.pdf)
 
 **Certificates**
 
