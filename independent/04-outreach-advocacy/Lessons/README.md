@@ -3,7 +3,7 @@
 
 Educational Lesson Plans for the City of Savannah Office of Municipal Archives and History
 
-**Artifacts:**
+## Artifacts
 
 [Postage Stamp Lesson](Postage%20Stamp%20Lesson.pdf)
 

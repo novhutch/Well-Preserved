@@ -5,9 +5,9 @@ Archival and Information Studies at Clayton State University, to
 document coursework and hands-on experience toward degree completion
 (expected December 2026).
 
-Portfolio last reviewed: 2026-11-07
+Portfolio last reviewed: 2026-11-16
 
-**How to Read This Page**
+## How to read this page
 
 This page is the Table of Contents for the whole portfolio. It lists every artifact once, at its current version.
 
@@ -22,7 +22,7 @@ The resume, its supporting pages, and the certificates keep their original file 
 
 ## Contents
 
-**With Guidance** — coursework
+### With guidance (coursework)
 
 - [01 — Nature of Records and Archives](../with-guidance/01-nature-of-records)
   - [Accession Record](../with-guidance/01-nature-of-records/Accession-Record_v1.1_2026-10-24.pdf)
@@ -35,16 +35,16 @@ The resume, its supporting pages, and the certificates keep their original file 
 - [05 — Management and Administration](../with-guidance/05-management-administration)
   - [Strategic Plan](../with-guidance/05-management-administration/Strategic-Plan_v1.1_2026-10-24.pdf)
 
-**Independent** — hands-on
+### Independent (hands-on)
 
 - [01 — Arrangement and Description](../independent/01-arrangement-description)
-  - [Mike Williams Art Collection finding aid](../independent/01-arrangement-description/Mike-Williams-Finding-Aid_v1.1_2026-10-24.pdf)
-  - [Rev. Southall Brown Collection finding aid](../independent/01-arrangement-description/Southall-Brown-Finding-Aid_v1.1_2026-11-06.pdf)
+  - [Mike Williams Art Collection finding aid](../independent/01-arrangement-description/Mike-Williams-Finding-Aid_v1.2_2026-11-16.pdf)
+  - [Rev. Southall Brown Collection finding aid](../independent/01-arrangement-description/Southall-Brown-Finding-Aid_v1.2_2026-11-16.pdf)
 - [02 — Preservation](../independent/02-preservation)
-  - [Audacity](../independent/02-preservation/Audacity)
+  - [Audiocassette digitization (Audacity)](../independent/02-preservation/Audacity)
 - [03 — Digital Records and Access Systems](../independent/03-digital-records-access-systems)
-  - [Omeka](https://newengland.omeka.net)
-  - [PastPerfect](../independent/03-digital-records-access-systems/PastPerfect)
+  - [Omeka site (external website)](https://newengland.omeka.net)
+  - [PastPerfect work (collections open on the City's PastPerfect Online site)](../independent/03-digital-records-access-systems/PastPerfect)
     - [Mike Williams Art Collection](https://savannahga.pastperfectonline.com/Search?search_criteria=1121-095&onlyimages=false)
     - [W. W. Law NAACP Collection](https://savannahga.pastperfectonline.com/AdvancedSearch?advanceSearchActivated=true&firstTimeSearch=true&search_include_photos=true&search_include_archives=true&search_include_library=true&search_include_creators=true&search_include_people=true&search_include_containers=true&searchcat_1=&searchcat_2=1121-102&searchcat_3=&searchcat_4=&searchcat_5=&searchcat_6=&actionType=Search)
     - [Historic Savannah East/West Maps Collection](https://savannahga.pastperfectonline.com/Search?page=1&search_criteria=3121-008&onlyimages=False)
@@ -52,27 +52,29 @@ The resume, its supporting pages, and the certificates keep their original file 
 - [04 — Outreach and Advocacy](../independent/04-outreach-advocacy)
   - [Displays](../independent/04-outreach-advocacy/Displays)
   - [Lessons](../independent/04-outreach-advocacy/Lessons)
-  - [StoryRoots](https://www.savannahga.gov/4323/StoryRoots)
+  - [StoryRoots (City of Savannah website)](https://www.savannahga.gov/4323/StoryRoots)
 
-**Portfolio Documentation** — how the portfolio was selected, managed, and protected
+### Portfolio documentation
 
-- [portfolio-documentation](../portfolio-documentation)
+How the portfolio was selected, managed, and protected.
+
+- [Portfolio documentation folder](../portfolio-documentation)
   - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf)
   - [Selection Criteria](../portfolio-documentation/Selection-Criteria_v2.0_2026-11-06.pdf)
   - [Archival Practice in Context](../portfolio-documentation/Archival-Practice-in-Context_v1.0_2026-11-06.pdf)
   - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.1_2026-11-07.pdf)
-  - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.1_2026-11-06.pdf)
-  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.1_2026-11-06.pdf)
+  - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.2_2026-11-16.pdf)
+  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.2_2026-11-16.pdf)
 
-**Certificates**
+### Certificates
 
-- [certificates](../certificates)
+- [Certificates folder](../certificates)
 
 
-**Resume**
+### Resume
 
-- [resume](../resume)
-  - [Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf](../resume/Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)
+- [Resume folder](../resume)
+  - [Resume (PDF)](../resume/Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)
 
 ## Folder numbers and competency numbers
 

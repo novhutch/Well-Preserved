@@ -3,19 +3,15 @@
 
 Coursework artifact applying the Appraisal and Acquisition competency: a deed of gift formalizing the transfer of materials into archival custody, prepared to DACS standards.
 
-**What this shows I can do:**
+## What this shows I can do
 
-Apply appraisal judgment — reasoning through what belongs in archival custody and why, rather than accepting material automatically.
+- Decide what belongs in an archives' custody, and explain why.
+- Draft a deed of gift that formally transfers custody and spells out the rights being transferred.
+- Apply DACS to an acquisition document, not only to a finding aid.
+- Balance the donor's interests with the archives' needs in a formal agreement.
+- Treat acquisition as the first step that arrangement, description, and access all depend on.
 
-Draft a legal transfer instrument — producing a deed of gift that formally establishes custody and spells out the rights being transferred.
-
-Apply a descriptive standard (DACS) to a legal/administrative document, not just to a finding aid, showing the standard extends past description into the acquisition process itself.
-
-Account for donor relations and rights considerations within a formal document, balancing the donor's interests with the archives' needs.
-
-Recognize acquisition as the gateway step that everything else (arrangement, description, access) depends on.
-
-**What this taught me:**
+## What this taught me
 
 Writing a deed of gift showed me that acquisition is built on trust between the donor and the archives. Every clause, from copyright to restrictions, decides what researchers will and will not be able to do with the materials years from now, so each one has to be written with care.
 

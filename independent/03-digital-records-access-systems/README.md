@@ -3,25 +3,21 @@
 
 Hands-on artifact for the Digital Records and Access Systems competency: work in PastPerfect on the City of Savannah's collections website, and an independently built Omeka site.
 
-**What this shows I can do:**
+## What this shows I can do
 
-Enter and manage collection records in a live, public-facing collections management system (PastPerfect).
+- Enter and manage records in PastPerfect, a live collections system the public searches.
+- Build an Omeka site on my own, from its structure to how its metadata displays.
+- Describe collections consistently in two systems with different limits and audiences.
+- Make described collections searchable online for the public.
+- Work well inside a City system I do not control, and also build my own from scratch.
 
-Build a digital access platform independently — setting up Omeka from scratch, including structure and metadata display.
-
-Apply consistent description and metadata practices across two different systems with different constraints and audiences.
-
-Make processed, described collections actually discoverable and searchable online for the public.
-
-Work within an institutional system I don't control (a municipal government platform) while still producing a self-directed, independently built one (Omeka) — showing range across both constrained and open-ended digital environments.
-
-**What this taught me:**
+## What this taught me
 
 PastPerfect taught me to do careful work inside a system I did not build and cannot change. Building my own Omeka site taught me what it takes to make a collection findable from the ground up. Both showed me that online access depends on description. Clear titles, dates, creator names, and subject terms, entered the same way every time, are what let a researcher's search actually find a record. Good metadata is what turns a digital file into something a researcher can find, understand, and trust.
 
 **Origin:** PastPerfect work done during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History). The Omeka site began as a course assignment and was built on my own, using my own photographs.
 
-**Artifact:** 
+## Artifact
 
 [Omeka](https://newengland.omeka.net)
 

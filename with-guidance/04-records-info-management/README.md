@@ -7,10 +7,10 @@ Coursework artifact for the Records Information Management competency: A full in
 
 **Adapted from:** Modeled on real-world institutional RM policy structure, built out for a fictional archive as a coursework assignment.
 
-**What this artifact covers:**
+## What this artifact covers
 The policy is organized around the full records lifecycle rather than a single procedure, which is what makes it a substantial artifact for this competency.
 
-**What this taught me:**
+## What this taught me
 
 Records management taught me that preservation starts long before records reach an archive. The choices an office makes when a record is first created, such as what to call it, where to keep it, and how long to hold on to it, decide whether it survives long enough to be preserved at all.
 

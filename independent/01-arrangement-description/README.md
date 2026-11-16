@@ -3,26 +3,22 @@
 
 Hands-on finding aids demonstrating arrangement and description under DACS, for two named collections.
 
-**What this shows I can do:**
+## What this shows I can do
 
-Apply DACS to real, unprocessed collections — structuring multilevel description (collection, series, item-level detail where warranted) rather than working from a template already set up for me.
+- Apply DACS to real, unprocessed collections, describing them at the collection, series, and, where it helps, item level.
+- Decide whether to keep a collection's original order or arrange it differently for researchers, and record that decision.
+- Write scope and content notes and biographical notes, in plain language, that help a first-time researcher understand the collection.
+- Use the same standard for very different collections: an artist's work and the papers of a civil rights-era minister.
+- Apply subject tags consistently, so related collections can be found together.
 
-Make arrangement decisions — determining whether a collection's original order should be preserved or whether an imposed arrangement better serves researcher access, and documenting that decision.
-
-Write scope and content notes and biographical/historical notes that orient a researcher who has never seen the collection, balancing archival terminology with plain-language description.
-
-Apply a consistent descriptive standard across collections with very different subject matter (an art collection vs. a civil rights-era religious figure's papers), showing the standard travels even when the content doesn't.
-
-Assign and apply controlled-vocabulary subject tags consistently across finding aids, so related collections can be found together.
-
-**What this taught me:**
+## What this taught me
 
 Processing real collections taught me that arrangement is a judgment call with consequences. Whether I kept the order the materials arrived in or changed it decided what a researcher would be able to find. Working on the Southall Brown papers also taught me to describe people with care, naming them only as the donor provided, because these papers belong to a family and a community.
 
 **Origin:** Created during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History).
 
-**Artifacts:**
-- [Mike Williams Art Collection finding aid](Mike-Williams-Finding-Aid_v1.1_2026-10-24.pdf) — **Tags:** arrangement, DACS, community archives, local artists, art
-- [Rev. Southall Brown Collection finding aid](Southall-Brown-Finding-Aid_v1.1_2026-11-06.pdf) — **Tags:** arrangement, DACS, community archives, civil rights, religion
+## Artifacts
+- [Mike Williams Art Collection finding aid](Mike-Williams-Finding-Aid_v1.2_2026-11-16.pdf) — **Tags:** arrangement, DACS, community archives, local artists, art
+- [Rev. Southall Brown Collection finding aid](Southall-Brown-Finding-Aid_v1.2_2026-11-16.pdf) — **Tags:** arrangement, DACS, community archives, civil rights, religion
 
 The Southall Brown finding aid is part of a broader, sustained interest in Savannah's Civil Rights history and community archives; the Mike Williams Collection is an art collection processed under the same DACS-based arrangement and description approach.

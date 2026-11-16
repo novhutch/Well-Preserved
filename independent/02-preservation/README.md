@@ -3,25 +3,21 @@
 
 Hands-on artifact for the Preservation competency: Analog-to-digital reformatting of audiocassette material using Audacity, demonstrating audio preservation workflow rather than physical/environmental preservation technique.
 
-**What this shows I can do:**
+## What this shows I can do
 
-Perform analog-to-digital audio reformatting — capturing content off a physical, degrading carrier (cassette tape) before it becomes inaccessible, which is the core preservation task audio archives face.
+- Transfer audio from cassette tape to digital files before the tape degrades.
+- Choose the right file formats: an uncompressed master file (WAV) for long-term keeping, and a separate, smaller copy for listening.
+- Use Audacity to fix real playback problems, such as hiss, dropouts, and volume, without changing the recording itself.
+- Record how each transfer was made (equipment, date, and the tape's condition) so every digital file can be traced back to its original.
+- Understand that preservation methods change with the material: paper, photographs, and audio each need their own approach.
 
-Make preservation-appropriate format decisions — choosing an uncompressed or lossless master format (e.g. WAV/BWF) for long-term retention, separate from any compressed access copy made for patron use.
-
-Work with audio editing tools without over-processing — using Audacity to address genuine playback issues (hiss, dropout, level correction) while being conscious of the line between cleanup and altering the evidentiary integrity of the recording.
-
-Document the transfer process — capturing technical metadata (equipment used, transfer date, original carrier condition) so the digital file has a documented chain of custody back to its analog source.
-
-Recognize preservation as format-dependent — showing that "preservation" isn't a single technique, but a set of skills that changes depending on whether the material is paper, photographic, or audio.
-
-**What this taught me:**
+## What this taught me
 
 Digitizing audiocassettes taught me that audio preservation is a race against time. Once a tape breaks down, the voices on it are gone. It also taught me restraint: I cleaned up only what got in the way of listening, so the digital copy stays true to the original recording.
 
 **Origin:** Created during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History). The digitized recordings themselves are kept on the Archives' own servers and hard drives, not in this portfolio.
 
-**Artifact:** 
+## Artifact
 
 
 [Audiocassette Tape Digitization Guide (PDF)](Audacity/Audiocassette%20Tape%20Digitization%20Guide.pdf)

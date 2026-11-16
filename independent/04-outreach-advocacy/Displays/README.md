@@ -3,7 +3,7 @@
 
 Photographs of Curated Displays for the City of Savannah Office of Municipal Archives and History
 
-**Artifacts:**
+## Artifacts
 
 [Back to School](Back%20to%20School.jpg) — Display case with a black cloth background and a sign reading "Back to School: Scholastic Highlights from the Municipal Archives." It holds historic photographs of schoolchildren, color postcards of school buildings, a small portrait card, and typed label cards.
 

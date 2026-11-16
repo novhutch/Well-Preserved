@@ -1,8 +1,8 @@
 # Well-Preserved
 
-Graduate archival portfolio mapped to the nine SAA-aligned competency components. Each folder pairs a specific artifact with the competency it demonstrates — some produced with course guidance, some hands-on.
+Graduate archival portfolio mapped to the nine competency components aligned with the Society of American Archivists (SAA). Each folder pairs a specific artifact with the competency it demonstrates — some produced with course guidance, some hands-on.
 
-**Access:** This portfolio is current as of November 2026 and reflects coursework and hands-on archival work completed through my MAIS program at Clayton State University, expected to conclude December 2026. It's maintained for hiring committees and reviewers evaluating my candidacy for archival positions and will be kept current through my job search; after that, entries may not reflect my most recent work.
+**Access:** This portfolio is current as of November 2026 and reflects coursework and hands-on archival work completed through the Master of Archival and Information Studies (MAIS) program at Clayton State University, expected to conclude December 2026. It's maintained for hiring committees and reviewers evaluating my candidacy for archival positions and will be kept current through my job search; after that, entries may not reflect my most recent work.
 
 **Reproduction:** Materials in this portfolio are shared for the purpose of evaluating my qualifications and are not to be reproduced, redistributed, or cited without my written permission. Contact me at arhutch03@yahoo.com to request use. The finding aids included here (Mike Williams Art Collection, Rev. Southall Brown Collection) carry their own copyright and reproduction notices governing the archival collections they describe, separate from and in addition to this portfolio-level statement.
 
@@ -13,7 +13,7 @@ I became an archivist to make sure underrepresented voices are preserved for fut
 ## Start here
 
 - **New to this portfolio?** Begin with the [Finding Aid](00-finding-aid/). In archives, a finding aid is a guide to a collection: it explains what the collection is, who made it, and how it is organized, and lists what it contains, like a detailed table of contents. This portfolio's finding aid does the same for my work, listing every artifact once under the skill it shows.
-- **Want to see the work itself?** The two lists below group my artifacts into coursework (*With guidance*) and work done at a real archives (*Independent*). Each link opens a page that explains the artifact, what it shows I can do, what it taught me, and where it came from, with links to the files.
+- **Want to see the work itself?** The two lists below group my artifacts into coursework (*With guidance*) and work done mostly at a real archives (*Independent*). Each link opens a page that explains the artifact, what it shows I can do, what it taught me, and where it came from, with links to the files.
 - **Reviewing against the scoring criteria?** The [Evidence Map](portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf) shows where the evidence for each criterion is.
 - **Want to use an item?** To request a copy or permission, email arhutch03@yahoo.com.
 
@@ -37,6 +37,8 @@ I became an archivist to make sure underrepresented voices are preserved for fut
 - [Portfolio Documentation](portfolio-documentation/) — Evidence Map, Selection Criteria, Archival Practice in Context, Ethics and Permissions, Preservation and Export Log, Accessibility Remediation Log
 
 See [00-finding-aid](00-finding-aid/) for the full repository map.
+
+**Reading a downloaded copy?** The pages ending in .md are plain text and open in any text editor; the asterisks and pound signs are formatting marks. The folders, file names, and links work the same way offline, except for the links to outside websites (PastPerfect Online, Omeka, StoryRoots).
 
 ## Resume
 

@@ -1,3 +1,5 @@
+# Build Log
+
 
 ## 2026-10-12: Fingerprint (checksum) check added
 - What: Created checksums.txt, a list of digital fingerprints for every file in the with-guidance and independent folders.
@@ -71,3 +73,8 @@
 - Also on 2026-11-07: Removed the Word versions of the three lesson plans and the Audiocassette Tape Digitization Guide; the accessible PDFs are now the copies shared here. Replaced the resume with v2.0. Named the City of Savannah Office of Municipal Archives and History on each hands-on page, and expanded Start here to explain what a finding aid is.
 - Final check on 2026-11-07: re-saved Ethics and Permissions as an accessible v1.1 PDF, renamed the narration transcript to v1.0 (its first version), and clarified which documents carry a version line.
 - Final export test on 2026-11-07: downloaded the published portfolio as a ZIP and ran the fingerprint check; every file said OK.
+
+## 2026-11-16: Final checks
+- Accessibility: tagged the section headings in both finding aids (now v1.2), added image descriptions to the Audiocassette Tape Digitization Guide, and set the Accessibility Remediation Log's title (now v1.2). Turned bold section labels on every page into real headings, and renamed vague links in the finding aid.
+- Pages: rewrote each "What this shows I can do" section in plain language; used the full program name (Master of Archival and Information Studies) and spelled out SAA on the main page; added a note on reading a downloaded copy.
+- Export: Preservation and Export Log is now v1.2.

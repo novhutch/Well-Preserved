@@ -5,10 +5,10 @@ Coursework artifact applying the Nature of Records and Archives competency: A si
 
 **Adapted from:** Real-world accession record examples found online, combined into a fictional ACME Corporation collection for coursework.
 
-**What this artifact covers:**
+## What this artifact covers
 The record documents the intake of a 5 GB digital collection (1932–2012) donated by the fictional ACME Corporation, and works through the required accession elements in sequence
 
-**What this taught me:**
+## What this taught me
 
 This assignment showed me how much depends on the very first step. If the custody history, rights, and restrictions are not written down when a collection comes through the door, the next archivist is left guessing. The ACME collection was born-digital, which raised questions I had not thought about yet, like file formats and where the files would actually live.
 
