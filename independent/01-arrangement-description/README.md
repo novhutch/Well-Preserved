@@ -18,7 +18,8 @@ Processing real collections taught me that arrangement is a judgment call with c
 **Origin:** Created during my internship at the Savannah Municipal Archives (City of Savannah Office of Municipal Archives and History).
 
 ## Artifacts
-- [Mike Williams Art Collection finding aid](Mike-Williams-Finding-Aid_v1.2_2026-11-16.pdf) — **Tags:** arrangement, DACS, community archives, local artists, art
-- [Rev. Southall Brown Collection finding aid](Southall-Brown-Finding-Aid_v1.2_2026-11-16.pdf) — **Tags:** arrangement, DACS, community archives, civil rights, religion
 
 The Southall Brown finding aid is part of a broader, sustained interest in Savannah's Civil Rights history and community archives; the Mike Williams Collection is an art collection processed under the same DACS-based arrangement and description approach.
+
+- [Mike Williams Art Collection finding aid](Mike-Williams-Finding-Aid_v1.2_2026-11-16.pdf) — **Tags:** arrangement, DACS, community archives, local artists, art
+- [Rev. Southall Brown Collection finding aid](Southall-Brown-Finding-Aid_v1.2_2026-11-16.pdf) — **Tags:** arrangement, DACS, community archives, civil rights, religion

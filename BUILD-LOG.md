@@ -78,3 +78,9 @@
 - Accessibility: tagged the section headings in both finding aids (now v1.2), added image descriptions to the Audiocassette Tape Digitization Guide, and set the Accessibility Remediation Log's title (now v1.2). Turned bold section labels on every page into real headings, and renamed vague links in the finding aid.
 - Pages: rewrote each "What this shows I can do" section in plain language; used the full degree name (Master of Science, Archival and Information Studies) and spelled out SAA on the main page; added a note on reading a downloaded copy.
 - Export: Preservation and Export Log is now v1.2.
+
+## 2026-11-16: Reading paths re-tested
+- Walked both Week 5 reading paths on the published site. Both still reach their artifact in two clicks from the homepage.
+- Path A (hiring manager, processing archivist): moved the framing sentence on the Arrangement and Description page up beside the finding-aid links, where this reader expects it.
+- Path B (records manager employer): gave the Records Information Management page a "What this shows I can do" list, as on the other competency pages, and removed a repeated mention that the repository is fictional. Did the same for the Nature of Records page.
+- Homepage: added a "Hiring for a specific role?" line to Start here that points both readers straight to their competency page.

@@ -1,12 +1,17 @@
 # 01 — Nature of Records and Archives
 **Tags:** DACS
 
-Coursework artifact applying the Nature of Records and Archives competency: A single-level DACS-aligned accession record documenting the intake of a fictional corporate collection, from custodial history through accession decision. Standard/Framework: DACS (accession record required elements) 
+Coursework artifact applying the Nature of Records and Archives competency: A single-level DACS-aligned accession record documenting the intake of a fictional corporate collection, from custodial history through accession decision.
+
+**Standard/Framework:** DACS (accession record required elements)
 
 **Adapted from:** Real-world accession record examples found online, combined into a fictional ACME Corporation collection for coursework.
 
-## What this artifact covers
-The record documents the intake of a 5 GB digital collection (1932–2012) donated by the fictional ACME Corporation, and works through the required accession elements in sequence
+## What this shows I can do
+
+- Document a collection's intake, working through each required accession element in order.
+- Record custodial history, the collection's condition, and donor restrictions at the moment a collection arrives.
+- Accession a born-digital collection: 5 GB of digital material spanning 1932 to 2012.
 
 ## What this taught me
 

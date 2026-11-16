@@ -5,10 +5,14 @@ Coursework artifact for the Records Information Management competency: A full in
 
 **Standard/Framework:** ISO 15489 (Records Management); ISO 14721 / OAIS (referenced for digital preservation) 
 
-**Adapted from:** Modeled on real-world institutional RM policy structure, built out for a fictional archive as a coursework assignment.
+**Adapted from:** Modeled on the structure of real-world institutional records management policies.
 
-## What this artifact covers
-The policy is organized around the full records lifecycle rather than a single procedure, which is what makes it a substantial artifact for this competency.
+## What this shows I can do
+
+- Write a complete records management policy organized around the whole records lifecycle, from creation through disposition or permanent preservation.
+- Classify records and build retention scheduling and disposition into everyday practice.
+- Assign clear records responsibilities to staff roles, including training and guidance for all staff.
+- Apply ISO 15489, the international records management standard, and use OAIS as a reference for keeping digital records.
 
 ## What this taught me
 
