@@ -76,5 +76,5 @@
 
 ## 2026-11-16: Final checks
 - Accessibility: tagged the section headings in both finding aids (now v1.2), added image descriptions to the Audiocassette Tape Digitization Guide, and set the Accessibility Remediation Log's title (now v1.2). Turned bold section labels on every page into real headings, and renamed vague links in the finding aid.
-- Pages: rewrote each "What this shows I can do" section in plain language; used the full program name (Master of Archival and Information Studies) and spelled out SAA on the main page; added a note on reading a downloaded copy.
+- Pages: rewrote each "What this shows I can do" section in plain language; used the full degree name (Master of Science, Archival and Information Studies) and spelled out SAA on the main page; added a note on reading a downloaded copy.
 - Export: Preservation and Export Log is now v1.2.
