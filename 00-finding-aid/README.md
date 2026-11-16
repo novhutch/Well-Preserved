@@ -62,7 +62,7 @@ How the portfolio was selected, managed, and protected.
   - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf)
   - [Selection Criteria](../portfolio-documentation/Selection-Criteria_v2.0_2026-11-06.pdf)
   - [Archival Practice in Context](../portfolio-documentation/Archival-Practice-in-Context_v1.0_2026-11-06.pdf)
-  - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.1_2026-11-07.pdf)
+  - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.2_2026-11-16.pdf)
   - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.2_2026-11-16.pdf)
   - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.2_2026-11-16.pdf)
 
