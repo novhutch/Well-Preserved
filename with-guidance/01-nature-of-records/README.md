@@ -1,7 +1,7 @@
 # 01 — Nature of Records and Archives
 **Tags:** DACS
 
-Coursework artifact applying the Nature of Records and Archives competency: A single-level DACS-aligned accession record documenting the intake of a fictional corporate collection, from custodial history through accession decision.
+An accession record documenting the intake of a fictional corporate collection, from its custodial history to the decision to accept it.
 
 **Standard/Framework:** DACS (accession record required elements)
 
@@ -19,5 +19,7 @@ This assignment showed me how much depends on the very first step. If the custod
 
 **Origin:** Created for ARST 5500: Archive Appraisal, Selection, and Evaluation, Clayton State University. The ACME Corporation collection and its donor are fictional, created for this assignment.
 
-**Artifact:** [Accession Record](Accession-Record_v1.1_2026-10-24.pdf)
+## Artifact
+
+[Accession Record](Accession-Record_v1.1_2026-10-24.pdf)
 

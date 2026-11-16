@@ -1,7 +1,7 @@
 # 02 — Appraisal and Acquisition
 **Tags:** DACS
 
-Coursework artifact applying the Appraisal and Acquisition competency: a deed of gift formalizing the transfer of materials into archival custody, prepared to DACS standards.
+A deed of gift that formally transfers materials into archival custody, prepared to DACS standards.
 
 ## What this shows I can do
 
@@ -17,4 +17,6 @@ Writing a deed of gift showed me that acquisition is built on trust between the 
 
 **Origin:** Created for ARST 5500: Archive Appraisal, Selection, and Evaluation, Clayton State University. The donor and records described are fictional, created for this assignment.
 
-**Artifact:** [Deed of Gift](Deed-of-Gift_v1.1_2026-10-24.pdf)
+## Artifact
+
+[Deed of Gift](Deed-of-Gift_v1.1_2026-10-24.pdf)

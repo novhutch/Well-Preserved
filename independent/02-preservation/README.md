@@ -1,7 +1,7 @@
 # 02 — Preservation
 **Tags:** digitization
 
-Hands-on artifact for the Preservation competency: Analog-to-digital reformatting of audiocassette material using Audacity, demonstrating audio preservation workflow rather than physical/environmental preservation technique.
+A guide to transferring audiocassette recordings to digital files with Audacity, from my digitization work at the Archives.
 
 ## What this shows I can do
 

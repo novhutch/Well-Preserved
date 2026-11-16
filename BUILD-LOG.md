@@ -84,3 +84,4 @@
 - Path A (hiring manager, processing archivist): moved the framing sentence on the Arrangement and Description page up beside the finding-aid links, where this reader expects it.
 - Path B (records manager employer): gave the Records Information Management page a "What this shows I can do" list, as on the other competency pages, and removed a repeated mention that the repository is fictional. Did the same for the Nature of Records page.
 - Homepage: added a "Hiring for a specific role?" line to Start here that points both readers straight to their competency page.
+- Also on 2026-11-16: Opening sentences rewritten in plain language on every competency page, the files labeled the same way on every page, and the Portfolio Documentation page's skills set as a list, so the pages read as one piece.

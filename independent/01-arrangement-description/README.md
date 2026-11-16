@@ -1,7 +1,7 @@
 # 01 — Arrangement and Description
 **Tags:** arrangement, DACS, community archives, civil rights
 
-Hands-on finding aids demonstrating arrangement and description under DACS, for two named collections.
+Finding aids for two collections I arranged and described under DACS: the Mike Williams Art Collection and the Rev. Southall Brown Collection.
 
 ## What this shows I can do
 

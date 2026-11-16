@@ -1,7 +1,7 @@
 # 05 — Management and Administration
 **Tags:** strategic planning, outreach, digitization
 
-Coursework artifact for the Management and Administration competency: a five-year strategic plan written for a hypothetical university library and archives.
+A five-year strategic plan for a hypothetical university library and archives.
 
 ## What this shows I can do
 
@@ -17,4 +17,6 @@ The strategic plan taught me that a goal without a person and resources behind i
 
 **Origin:** Created for ARST 6620: Managing Archives, Clayton State University. Written for a hypothetical university library and archives.
 
-**Artifact:** [Strategic Plan](Strategic-Plan_v1.1_2026-10-24.pdf)
+## Artifact
+
+[Strategic Plan](Strategic-Plan_v1.1_2026-10-24.pdf)

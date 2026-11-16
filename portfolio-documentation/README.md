@@ -4,19 +4,13 @@ Six documents that explain how this portfolio was selected, managed, protected, 
 
 ## What this shows I can do
 
-Point a reader to the evidence for each of the course's scoring criteria.
-
-Explain what I chose to include, what I left out, and what that choice makes invisible.
-
-Explain how archival work differs from allied professions, and how the social context of a record shapes what it says.
-
-Plan and track a project, including time and risks.
-
-Apply the SAA Code of Ethics to real decisions, and document permissions for the materials I share.
-
-Test whether the portfolio survives outside GitHub, and keep a record of the results.
-
-Find and fix accessibility problems, and keep a log of each fix and why it matters.
+- Point a reader to the evidence for each of the course's scoring criteria.
+- Explain what I chose to include, what I left out, and what that choice makes invisible.
+- Explain how archival work differs from allied professions, and how the social context of a record shapes what it says.
+- Plan and track a project, including time and risks.
+- Apply the SAA Code of Ethics to real decisions, and document permissions for the materials I share.
+- Test whether the portfolio survives outside GitHub, and keep a record of the results.
+- Find and fix accessibility problems, and keep a log of each fix and why it matters.
 
 ## Documents
 

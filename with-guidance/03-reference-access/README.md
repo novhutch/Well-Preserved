@@ -1,7 +1,7 @@
 # 03 — Reference and Access
 **Tags:** outreach
 
-Coursework artifact for the Reference and Access competency: a Patron Relations presentation.
+A narrated training presentation on patron relations, with a PDF of the slides and a written transcript of the narration.
 
 ## What this shows I can do
 

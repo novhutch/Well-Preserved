@@ -1,7 +1,7 @@
 # 03 — Digital Records and Access Systems
 **Tags:** PastPerfect, Omeka, digitization
 
-Hands-on artifact for the Digital Records and Access Systems competency: work in PastPerfect on the City of Savannah's collections website, and an independently built Omeka site.
+My work in PastPerfect on the City of Savannah's online collections, and an Omeka site I built on my own.
 
 ## What this shows I can do
 
