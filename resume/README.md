@@ -1,6 +1,5 @@
 # Resume
 
-**Target Position:** Entry-level Archivist at a municipal or community archive, with responsibilities in collection processing, preservation, and public education and outreach.
 
 **Positioning Statement:** Archival professional who makes municipal and community history findable and teachable. Hands-on experience arranging, describing, cataloging, preserving, and digitizing Civil Rights, art, and civic collections at the City of Savannah Office of Municipal Archives and History, applying DACS and national descriptive standards and maintaining PastPerfect records that give the public online access. Graduate training in archival theory and practice, including appraisal, preservation, and records management, combined with curriculum and program design and customer-focused service gained through teaching and small-business ownership.
 
@@ -18,4 +17,4 @@
 
 **Tags:** DACS, digitization, outreach, PastPerfect, Omeka, ArchivesSpace, records management, community archives, civil rights
 
-[Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf](Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)
+[Amanda-Hutchinson-Resume_v2.1_2026-11-20.pdf](Amanda-Hutchinson-Resume_v2.1_2026-11-20.pdf)
