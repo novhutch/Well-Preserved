@@ -94,5 +94,4 @@
 - Added an AI Use Statement to the portfolio documentation, linked from the main page, the finding aid, and the documentation page. Evidence Map is now v1.2.
 - Also on 2026-11-20: published the corrected Digitization Guide (two typos fixed in its image descriptions).
 - Also on 2026-11-20: AI Use Statement revised (v1.1) to describe more fully where AI helped.
-- 2026-11-20: Resume v2.1 added (resume/Amanda-Hutchinson-Resume_v2.1_2026-11-20.pdf). Added measurable scope to archival entries, trimmed to two pages, removed the target position line, corrected association names, standardized punctuation. Version 2.0 kept for the record.
-- 2026-11-20: Resume v2.1 added (resume/Amanda-Hutchinson-Resume_v2.1_2026-11-20.pdf). Added measurable scope to archival entries, trimmed to two pages, removed the target position line, corrected association names, standardized punctuation. Version 2.0 kept for the record.
+- 2026-11-20: Resume v2.1 added (resume/Amanda-Hutchinson-Resume_v2.1_2026-11-20.pdf). Added measurable scope to archival entries, trimmed to two pages, removed the target position line, corrected association names, standardized punctuation. Version 2.0 removed from the site; it remains in GitHub's History.

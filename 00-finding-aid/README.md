@@ -75,7 +75,7 @@ How the portfolio was selected, managed, and protected.
 ### Resume
 
 - [Resume folder](../resume)
-  - [Resume (PDF)](../resume/Amanda-Hutchinson-Resume_v2.0_2026-11-07.pdf)
+  - [Resume (PDF)](../resume/Amanda-Hutchinson-Resume_v2.1_2026-11-20.pdf)
 
 ## Folder numbers and competency numbers
 

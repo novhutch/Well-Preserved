@@ -9,7 +9,7 @@
 
 **Date of creation:** 2026-10 (revised 2026-11)
 
-**Format:** PDF, 3 pages (tagged for accessibility)
+**Format:** PDF, 2 pages (tagged for accessibility)
 
 **Scope note:** Professional resume built for entry-level archivist positions, covering archival processing and description at the Savannah Municipal Archives, original educational lessons built on the W. W. Law correspondence, and digitization of audio cassettes and 19th-century maps.
 
