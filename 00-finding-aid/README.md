@@ -65,7 +65,7 @@ How the portfolio was selected, managed, and protected.
   - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.2_2026-11-16.pdf)
   - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.2_2026-11-16.pdf)
   - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.3_2026-11-20.pdf)
-  - [AI Use Statement](../portfolio-documentation/AI-Statement_v1.0_2026-11-16.pdf)
+  - [AI Use Statement](../portfolio-documentation/AI-Statement_v1.1_2026-11-20.pdf)
 
 ### Certificates
 

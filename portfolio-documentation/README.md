@@ -21,4 +21,4 @@ Seven documents that explain how this portfolio was selected, managed, protected
 - [Ethics and Permissions](Ethics-and-Permissions_v1.2_2026-11-16.pdf) — ethical decisions tied to the SAA Code of Ethics, and permissions for shared materials
 - [Preservation and Export Log](Preservation-and-Export-Log_v1.2_2026-11-16.pdf) — how the portfolio is protected, copied, and tested outside GitHub
 - [Accessibility Remediation Log](Accessibility-Remediation-Log_v1.3_2026-11-20.pdf) — accessibility problems found, fixes made, and why each matters
-- [AI Use Statement](AI-Statement_v1.0_2026-11-16.pdf) — where I used an AI assistant while finishing this portfolio, and what is my own
+- [AI Use Statement](AI-Statement_v1.1_2026-11-20.pdf) — where I used an AI assistant while finishing this portfolio, and what is my own

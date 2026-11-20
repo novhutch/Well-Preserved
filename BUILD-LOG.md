@@ -93,3 +93,4 @@
 - Fixed two typos in Part 3 of Ethics and Permissions (v1.2).
 - Added an AI Use Statement to the portfolio documentation, linked from the main page, the finding aid, and the documentation page. Evidence Map is now v1.2.
 - Also on 2026-11-20: published the corrected Digitization Guide (two typos fixed in its image descriptions).
+- Also on 2026-11-20: AI Use Statement revised (v1.1) to describe more fully where AI helped.
