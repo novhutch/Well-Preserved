@@ -86,3 +86,9 @@
 - Homepage: added a "Hiring for a specific role?" line to Start here that points both readers straight to their competency page.
 - Also on 2026-11-16: Opening sentences rewritten in plain language on every competency page, the files labeled the same way on every page, and the Portfolio Documentation page's skills set as a list, so the pages read as one piece.
 - Also on 2026-11-16: Ethics and Permissions is now v1.2, with a new Part 3, Redaction and permissions protocol.
+
+## 2026-11-20: Final accessibility and ethics updates
+- Accessibility Remediation Log is now v1.3, with the keyboard-only test results.
+- Fixed two typos in the image descriptions of the Audiocassette Tape Digitization Guide ("audactiy," "devive").
+- Fixed two typos in Part 3 of Ethics and Permissions (v1.2).
+- Added an AI Use Statement to the portfolio documentation, linked from the main page, the finding aid, and the documentation page. Evidence Map is now v1.2.

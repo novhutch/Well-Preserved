@@ -15,7 +15,7 @@ I became an archivist to make sure underrepresented voices are preserved for fut
 - **New to this portfolio?** Begin with the [Finding Aid](00-finding-aid/). In archives, a finding aid is a guide to a collection: it explains what the collection is, who made it, and how it is organized, and lists what it contains, like a detailed table of contents. This portfolio's finding aid does the same for my work, listing every artifact once under the skill it shows.
 - **Want to see the work itself?** The two lists below group my artifacts into coursework (*With guidance*) and work done mostly at a real archives (*Independent*). Each link opens a page that explains the artifact, what it shows I can do, what it taught me, and where it came from, with links to the files.
 - **Hiring for a specific role?** Every competency page opens with what it shows I can do. Processing work (the two finding aids) is under [Arrangement and Description](independent/01-arrangement-description/); records management is under [Records Information Management](with-guidance/04-records-info-management/).
-- **Reviewing against the scoring criteria?** The [Evidence Map](portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf) shows where the evidence for each criterion is.
+- **Reviewing against the scoring criteria?** The [Evidence Map](portfolio-documentation/Evidence-Map_v1.2_2026-11-20.pdf) shows where the evidence for each criterion is.
 - **Want to use an item?** To request a copy or permission, email arhutch03@yahoo.com.
 
 ## With guidance (coursework)
@@ -35,7 +35,7 @@ I became an archivist to make sure underrepresented voices are preserved for fut
 
 ## Portfolio documentation
 
-- [Portfolio Documentation](portfolio-documentation/) — Evidence Map, Selection Criteria, Archival Practice in Context, Ethics and Permissions, Preservation and Export Log, Accessibility Remediation Log
+- [Portfolio Documentation](portfolio-documentation/) — Evidence Map, Selection Criteria, Archival Practice in Context, Ethics and Permissions, Preservation and Export Log, Accessibility Remediation Log, AI Use Statement
 
 See [00-finding-aid](00-finding-aid/) for the full repository map.
 

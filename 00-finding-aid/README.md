@@ -5,7 +5,7 @@ Archival and Information Studies at Clayton State University, to
 document coursework and hands-on experience toward degree completion
 (expected December 2026).
 
-Portfolio last reviewed: 2026-11-16
+Portfolio last reviewed: 2026-11-20
 
 ## How to read this page
 
@@ -59,12 +59,13 @@ The resume, its supporting pages, and the certificates keep their original file 
 How the portfolio was selected, managed, and protected.
 
 - [Portfolio documentation folder](../portfolio-documentation)
-  - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.1_2026-11-06.pdf)
+  - [Evidence Map](../portfolio-documentation/Evidence-Map_v1.2_2026-11-20.pdf)
   - [Selection Criteria](../portfolio-documentation/Selection-Criteria_v2.0_2026-11-06.pdf)
   - [Archival Practice in Context](../portfolio-documentation/Archival-Practice-in-Context_v1.0_2026-11-06.pdf)
   - [Ethics and Permissions](../portfolio-documentation/Ethics-and-Permissions_v1.2_2026-11-16.pdf)
   - [Preservation and Export Log](../portfolio-documentation/Preservation-and-Export-Log_v1.2_2026-11-16.pdf)
-  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.2_2026-11-16.pdf)
+  - [Accessibility Remediation Log](../portfolio-documentation/Accessibility-Remediation-Log_v1.3_2026-11-20.pdf)
+  - [AI Use Statement](../portfolio-documentation/AI-Statement_v1.0_2026-11-16.pdf)
 
 ### Certificates
 
